@@ -1,5 +1,19 @@
 # Tutorial de go
 
+## Como usar git
+
+Para descargar el proyecto se debe ejecutar (crea una carpeta con el proyecto en la ubicacion actual del terminal)
+
+```bash
+    git clone https://github.com/Camponotus27/tutorial-go
+```
+
+Para descargar cambios nuevos del repositorio sin tener que clonarlo otra vez se usa (pull significa jalar)
+
+```bash
+    git pull
+```
+
 ## Iniciar proyecto
 
 Inicia el archivo de modulos (administra las dependencias o packetes)
