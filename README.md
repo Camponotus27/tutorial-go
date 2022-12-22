@@ -2,11 +2,13 @@
 
 ## Como usar git
 
-Para descargar el proyecto se debe ejecutar (crea una carpeta con el proyecto en la ubicacion actual del terminal)
+Para descargar el proyecto se debe ejecutar
 
 ```bash
     git clone https://github.com/Camponotus27/tutorial-go
 ```
+
+El comando anterior crea una carpeta con el proyecto en la ubicacion actual del terminal
 
 Para descargar cambios nuevos del repositorio sin tener que clonarlo otra vez se usa (pull significa jalar)
 

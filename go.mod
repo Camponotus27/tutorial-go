@@ -1,3 +1,3 @@
-module My/tutorial-go
+module tutorial-go
 
 go 1.19
